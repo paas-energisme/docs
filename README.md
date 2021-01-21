@@ -2,8 +2,10 @@
 
 1. Documentation content located in **gitbook/**.
 
-2. Automatic Building and Publishing when pushing or merging updates in **master** branch.
+1. **README.md** and **SUMMARY.md** are mandatory.
 
-3. Edit and maintain documentation in [Markdown](https://www.markdownguide.org/) or [Html](https://www.w3schools.com/html/).
+1. Automatic Build and Publish in your [Repository Pages](https://pages.github.com/) when pushing or merging updates in **master** branch.
 
-4. That's all !
+1. Edit and maintain your documentation in [Markdown](https://www.markdownguide.org/) or [Html](https://www.w3schools.com/html/).
+
+1. That's all !
