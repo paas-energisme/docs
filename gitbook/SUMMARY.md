@@ -1,5 +1,12 @@
 # Summary
 
+* [User Manual](user_manual/index_pages.md)
+	* [I. About this document](user_manual/i_pages.md)
+	* [II. Steps](user_manual/ii_pages.md)
+	* [III. Verify](user_manual/iii_pages.md)
+
+--- 
+
 * [Connect PowerBI to ADLS](adls/index_pages.md)
 	* [I. About this document](adls/i_pages.md)
 	* [II. Prerequisites](adls/ii_pages.md)
