@@ -27,6 +27,7 @@
 		* [Step 2. Extract the ODBC JSON Query](tableau/v_s2_pages.md)
 		* [Step 3. Go to Tableau and declare the Query for requesting Parameters](tableau/v_s3_pages.md)
 	* [VI. Galery](tableau/vi_pages.md)
+
 <!---
 ---
 
