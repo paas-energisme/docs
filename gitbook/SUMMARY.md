@@ -18,7 +18,7 @@
 ---
 
 * [Connect Tableau to the PaaS with ODBC JSON connector](README.md)
-	* [I. About this document](README.md)
+	* [I. About this document](tableau/i_pages.md)
 	* [II. Prerequisites](tableau/ii_pages.md)
 	* [III. Download and install ODBC JSON Driver](tableau/iii_pages.md)
 	* [IV. Configure and test ODBC JSON Driver](tableau/iv_pages.md)
