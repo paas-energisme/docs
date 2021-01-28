@@ -1,6 +1,6 @@
 # Summary
 
-* [User Manual](user_manual/index_pages.md)
+* [User Manual](README.md)
 	* [I. About this document](user_manual/i_pages.md)
 	* [II. Steps](user_manual/ii_pages.md)
 	* [III. Verify](user_manual/iii_pages.md)
@@ -17,7 +17,15 @@
 
 ---
 
-* [Connect Tableau to the PaaS with ODBC JSON connector](README.md)
+* [Connect PowerBI to the PaaS with ODBC JSON connector](powerbi/index_pages.md)
+	* [I. About this document](powerbi/i_pages.md)
+	* [II. Prerequisites](powerbi/ii_pages.md)
+	* [III. Download and install ODBC JSON Driver](powerbi/iii_pages.md)
+	* [IV. Configure and test ODBC JSON Driver](powerbi/iv_pages.md)
+	
+---
+
+* [Connect Tableau to the PaaS with ODBC JSON connector](tableau/index_pages.md)
 	* [I. About this document](tableau/i_pages.md)
 	* [II. Prerequisites](tableau/ii_pages.md)
 	* [III. Download and install ODBC JSON Driver](tableau/iii_pages.md)

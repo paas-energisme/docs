@@ -1,7 +1,3 @@
-## V. Request DataLake Parameters API
-
-Tableau use the ODBC JSON Driver to communicate with the DataLake. You’ll need to create a Datasource in order to generate a query interpretable by Tableau
-
 ### Step 1. ODBC JSON DataSource
 
 ##### 1. Create a new ODBC JSON DataSource
