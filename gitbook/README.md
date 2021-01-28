@@ -2,7 +2,7 @@
 
 ###### Version 1.0.0.0
 
-![main_screen](user_manual/imgs/offers_logo.png.png "")
+![main_screen](user_manual/imgs/offers_logo.png "")
 
 ## I. About this document
 
