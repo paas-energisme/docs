@@ -2,10 +2,12 @@
 
 ###### Version 1.0.0.0
 
+![main_screen](user_manual/imgs/offers_logo.png.png "")
+
 ## I. About this document
 
 This document explains about below parameters screen when deploying:
 
-![main_screen](imgs/main_screen.png "")
+![main_screen](user_manual/imgs/main_screen.png "")
 
 ---
